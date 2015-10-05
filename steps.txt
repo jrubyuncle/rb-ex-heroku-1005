@@ -1,3 +1,5 @@
+https://devcenter.heroku.com/articles/getting-started-with-rails4
+
 $ heroku create
 
 Creating secret-coast-7442... done, stack is cedar-14
